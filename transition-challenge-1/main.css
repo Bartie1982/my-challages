@@ -1,0 +1,14 @@
+a {
+  color: #e84610;
+  font-size: 16px;
+  text-decoration: none;
+  background-color: white;
+  
+ 
+}
+
+a:hover {
+    background-color: #000;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
